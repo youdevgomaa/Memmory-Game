@@ -1,0 +1,9 @@
+body {
+  padding: 2rem;
+}
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 45vw;
+}
