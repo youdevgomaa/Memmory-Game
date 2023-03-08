@@ -1,9 +1,9 @@
 body {
-  padding: 2rem;
+  padding: 1rem;
 }
 #grid {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  width: 45vw;
+  width: "100%";
 }
